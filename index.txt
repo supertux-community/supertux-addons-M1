@@ -38,7 +38,7 @@
   (addon
     (title "Arvid & Sylvia's World")
     (author "Arvidaslav")
-    (file "zip/Arvid_)_Sylvia's_World.zip")
+    (file "zip/Arvid_&_Sylvia's_World.zip")
   )
   (addon
     (title "Adventure to the new World")
