@@ -41,6 +41,12 @@
     (file "zip/Arvid_)_Sylvia's_World.zip")
   )
   (addon
+    (title "Adventure to the new World")
+    (author "Miksy91")
+    (dependencies "cristophs_forest" "miksy91-extra-music-and-background")
+    (file "zip/ATTNW.zip")
+  )
+  (addon
     (title "Adventure to the new World 2")
     (author "Miksy91")
     (dependencies "cristophs_forest" "miksy91-extra-music-and-background")
@@ -51,13 +57,6 @@
     (author "Miksy91")
     (dependencies "cristophs_forest" "miksy91-extra-music-and-background")
     (file "zip/ATTNW-3.zip")
-  )
-  (addon
-    (title "Adventure to the new World")
-    (author "Miksy91")
-    (overrides-data #f)
-    (resource-pack #f)
-    (dependencies "cristophs_forest" "miksy91-extra-music-and-background")
   )
   (addon
     (title "Big Castle")
@@ -94,8 +93,8 @@
   (addon
     (title "Cristoph's Forest")
     (author "Cristoph")
-    (overrides-data #t)
     (resource-pack #t)
+    (file "zip/cristophs_forest.zip")
   )
   (addon
     (title "Dance Party")
@@ -300,8 +299,8 @@
   (addon
     (title "Extra Music and Backgrounds for Miksy91 Levelsets")
     (author "Miksy91 & joybeba6679")
-    (overrides-data #t)
     (resource-pack #t)
+    (file "zip/miksy91-extra-music-and-background.zip")
   )
   (addon
     (title "Min Sin")
