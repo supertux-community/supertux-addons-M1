@@ -444,6 +444,16 @@
     (file "zip/Such_a_Small_Level!.zip")
   )
   (addon
+    (title "SuperTux Extra (v1)")
+    (author "Narre")
+    (url "https://github.com/supertux-community/supertux-addons-M1/releases/download/st-extra/stextra1.zip")
+  )
+  (addon
+    (title "SuperTux Extra (v2)")
+    (author "Narre")
+    (url "https://github.com/supertux-community/supertux-addons-M1/releases/download/st-extra/stextra2.zip")
+  )
+  (addon
     (title "The Amazing Cave")
     (author "Ben")
     (file "zip/The_Amazing_Cave.zip")
